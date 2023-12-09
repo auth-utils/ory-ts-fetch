@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "openapi-generator-cli generate -i openapi.json -g typescript-fetch -c ./typescript.yaml -o ./src"
+    "generate": "openapi-generator-cli generate -i openapi.json -g typescript-fetch -c ./typescript.yaml -o ./api"
   },
   "author": "",
   "license": "ISC",
