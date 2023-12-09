@@ -34,5 +34,6 @@ jobs:
       - run: npm run build
         working-directory: api
       - run: npm publish
+        working-directory: api
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
