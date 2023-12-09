@@ -1,5 +1,5 @@
 npmName: ory-ts-fetch-client
-npmVersion: $VERSION
+npmVersion: 0.0.1
 # typescriptThreePlus: true
 supportsES6: true
 ensureUniqueParams: true
