@@ -1,7 +1,7 @@
 {
-  "name": "${NPM_NAME}",
-  "version": "$VERSION",
-  "description": "OpenAPI client for ${NPM_NAME}",
+  "name": "ory-ts-fetch-client",
+  "version": "202312.1",
+  "description": "OpenAPI client for ory-ts-fetch-client",
   "author": "OpenAPI-Generator",
   "repository": {
     "type": "git",

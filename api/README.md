@@ -1,4 +1,4 @@
-## ${NPM_NAME}@$VERSION
+## ory-ts-fetch-client@202312.1
 
 This generator creates TypeScript/JavaScript client that utilizes [Fetch API](https://fetch.spec.whatwg.org/). The generated Node module can be used in the following environments:
 
@@ -36,7 +36,7 @@ navigate to the folder of your consuming project and run one of the following co
 _published:_
 
 ```
-npm install ${NPM_NAME}@$VERSION --save
+npm install ory-ts-fetch-client@202312.1 --save
 ```
 
 _unPublished (not recommended):_
