@@ -1,4 +1,4 @@
-npmName: "${NPM_NAME}"
+npmName: kratos-ts-client
 npmVersion: $VERSION
 # typescriptThreePlus: true
 supportsES6: true
