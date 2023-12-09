@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auth-utils/ory-ts-fetch.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "openapi-generator-cli generate -i openapi.json -g typescript-fetch -c ./typescript.yaml -o ./api"
+    "generate": "openapi-generator-cli generate -i openapi.json -g typescript-fetch -c ./typescript.yaml -o ./api --git-repo-id auth-utils --git-user-id ory-ts-fetch"
   },
   "author": "",
   "license": "ISC",
