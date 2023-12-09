@@ -1,5 +1,6 @@
 npmName: ory-ts-fetch-client
 npmVersion: 0.0.1
+npmRepository: https://npm.pkg.github.com
 # typescriptThreePlus: true
 supportsES6: true
 ensureUniqueParams: true
