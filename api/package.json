@@ -1,7 +1,7 @@
 {
-  "name": "ory-ts-fetch-client",
+  "name": "@auth-utils/ory-ts-fetch",
   "version": "0.0.1",
-  "description": "OpenAPI client for ory-ts-fetch-client",
+  "description": "OpenAPI client for @auth-utils/ory-ts-fetch",
   "author": "OpenAPI-Generator",
   "repository": {
     "type": "git",
