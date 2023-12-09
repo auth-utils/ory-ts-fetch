@@ -1,4 +1,4 @@
-npmName: kratos-ts-client
+npmName: ory-ts-fetch-client
 npmVersion: $VERSION
 # typescriptThreePlus: true
 supportsES6: true
